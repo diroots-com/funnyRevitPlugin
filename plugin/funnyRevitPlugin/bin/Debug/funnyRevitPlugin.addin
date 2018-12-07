@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>funnyRevitPlugin</Name>
+    <FullClassName>funnyRevitPlugin.ExternalApplication</FullClassName>
+    <Text>funnyRevitPlugin</Text>
+    <Description>Just for fun.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Assembly>funnyRevitPlugin.dll</Assembly>
+    <AddInId>016224C1-814B-454F-8901-D66541ECAA24</AddInId>
+    <VendorId>DiRoots</VendorId>
+    <VendorDescription>DiRoots, Limited, www.diroots.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

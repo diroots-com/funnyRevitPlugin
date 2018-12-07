@@ -1,0 +1,8 @@
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\bin\Release\funnyRevitPlugin.addin
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\bin\Release\funnyRevitPlugin.dll
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\bin\Release\funnyRevitPlugin.pdb
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\obj\Release\funnyRevitPlugin.Properties.Resources.resources
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\obj\Release\funnyRevitPlugin.csproj.GenerateResource.cache
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\obj\Release\funnyRevitPlugin.csproj.CoreCompileInputs.cache
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\obj\Release\funnyRevitPlugin.dll
+J:\Users\demolidor\Desktop\funnyRevitPlugin\funnyRevitPlugin\obj\Release\funnyRevitPlugin.pdb
